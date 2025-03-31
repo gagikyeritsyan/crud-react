@@ -1,0 +1,104 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px;
+    font-size: 3rem;
+}
+
+.add-user-btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #008CBA;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: block;
+    font-size: 24px;
+    margin: auto;
+    width: max-content;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 650px;
+    font-size: 1.2rem;
+    margin: auto;
+}
+
+td, th {
+    border: 1px solid #cfcece;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr td:last-child {
+    display: flex;
+    gap: 10px;
+}
+
+a {
+    color: #0000D8;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+h2 span {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+
+.UserPage table {
+    width: 400px;
+}
+
+.UserPage table th {
+    text-align: start;
+}
+
+.goBackBtn {
+    background: #0000D8;
+    color: #fff;
+    font-size: 1.5rem;
+    position: absolute;
+    left: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+form {
+    width: 600px;
+    margin: auto;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+form .box {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+form input {
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+form .box label {
+    width: 120px;
+    display: inline-block;
+}
+
+form input[type=submit] {
+    background: #3333e8;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}

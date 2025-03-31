@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "37xyz",
+      "name": "Gag",
+      "surname": "Yeritsyan",
+      "username": "gag_😍",
+      "email": "gag_2004@mail.ru",
+      "phone": "+5419876543",
+      "address": "789 Oak St",
+      "age": 28
+    },
+    {
+      "id": "48lmp",
+      "name": "Sarah",
+      "surname": "Miller",
+      "username": "sarah_m",
+      "email": "sarah@mail.ru",
+      "phone": "+5415647382",
+      "address": "321 Pine St",
+      "age": 22
+    },
+    {
+      "id": "59qwe",
+      "name": "Michael",
+      "surname": "Davis",
+      "username": "michael_d",
+      "email": "michael@mail.ru",
+      "phone": "+5412348910",
+      "address": "654 Birch St",
+      "age": 35
+    },
+    {
+      "id": "60asd",
+      "name": "Jessica",
+      "surname": "Wilson",
+      "username": "jessica_w",
+      "email": "jessica@mail.ru",
+      "phone": "+5416789023",
+      "address": "987 Cedar St",
+      "age": 27
+    },
+    {
+      "id": "71fgh",
+      "name": "David",
+      "surname": "Moore",
+      "username": "david_m",
+      "email": "david@mail.ru",
+      "phone": "+5418901234",
+      "address": "258 Maple St",
+      "age": 31
+    },
+    {
+      "id": "82rty",
+      "name": "Emily",
+      "surname": "Taylor",
+      "username": "emily_t",
+      "email": "emily@mail.ru",
+      "phone": "+5415678901",
+      "address": "369 Walnut St",
+      "age": 26
+    },
+    {
+      "id": "93zxc",
+      "name": "Tom",
+      "surname": "Anderson",
+      "username": "tom_a",
+      "email": "tom@mail.ru",
+      "phone": "+5413456789",
+      "address": "741 Spruce St",
+      "age": 29
+    }
+  ]
+}
